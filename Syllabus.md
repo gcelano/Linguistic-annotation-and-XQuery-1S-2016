@@ -54,8 +54,5 @@
 * 19 January 2015
   * The Update Facility: understanding the logic and examples
 
-* 26 January 2015
-  * In-class examination: writing of XQuery scripts to solve problems concerning data extraction
-
 (...)
   
