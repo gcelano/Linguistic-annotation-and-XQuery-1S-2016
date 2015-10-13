@@ -1,6 +1,6 @@
 ### SYLLABUS
 ## LINGUISTIC ANNOTATION AND DATA EXTRACTION WITH XQUERY
-### Leipzig University, Winter semester 2016.
+### Leipzig University, Winter semester 2016
 
 
 
