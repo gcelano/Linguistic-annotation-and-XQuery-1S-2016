@@ -54,5 +54,6 @@
 * 19 January 2015
   * The Update Facility: understanding the logic and examples
 
-(...)
+* 2 February 2016
+ * Examination: write scripts to extract information
   
